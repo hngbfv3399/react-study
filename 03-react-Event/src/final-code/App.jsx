@@ -1,7 +1,10 @@
+
 function App() {
 
   return (
-   <div></div>
+   <div>
+    <h1>Event Handler</h1>
+   </div>
   )
 }
 
