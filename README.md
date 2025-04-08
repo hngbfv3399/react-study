@@ -89,6 +89,6 @@ react-study/
 
 ---
 
-> 만든 사람: 김지호 (a.k.a 검무컴컴한참치)  
+> 만든 사람: 김지호 (a.k.a 취미로개발)  
 > GitHub: [@hngbfv3399](https://github.com/hngbfv3399)
 
