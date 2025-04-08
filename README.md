@@ -64,13 +64,13 @@ npm run dev
 
 ```bash
 react-study/
-├── components-study/
+├── 01-components-study/
 │   └── src/
 │       ├── try-it/
 │       │   └── App.jsx
 │       └── final-code/
 │           └── App.jsx
-├── useState/
+├── 02-useState/
 │   └── src/
 │       ├── try-it/
 │       │   └── App.jsx
