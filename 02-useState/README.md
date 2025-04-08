@@ -1,1 +1,1 @@
-# useState로 상태관리
+# useState로 상태관리를 배워보겠습니다.
