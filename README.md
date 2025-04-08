@@ -41,14 +41,14 @@ createRoot(document.getElementById('root')).render(
 
 ## 📦 설치 및 실행 방법
 
-### 1⃣ 저장소 클론
+### 1. 저장소 클론
 
 ```bash
 git clone https://github.com/hngbfv3399/react-study.git
 cd react-study
 ```
 
-### 2⃣ 실습 프로젝트로 이동
+### 2. 실습 프로젝트로 이동
 
 ```bash
 cd [프로젝트명]  # 예: components-study
