@@ -1,11 +1,9 @@
 function Components() {
-    
     return (
      <div>
-        <h1>이건 저의 컴포넌트 입니다.</h1>
+      여기는 제가 만든 컴포넌트에용
      </div>
     )
   }
   
   export default Components;
-  
